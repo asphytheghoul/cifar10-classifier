@@ -8,5 +8,7 @@ and run the `client.py` file. <br/>
 ## Loss function graph: <br />
 <img src ="https://user-images.githubusercontent.com/91832216/194706793-f5c41963-112e-451f-be3a-aaf521042f69.png" width="250" height="250">
 
+[dataset used](https://www.kaggle.com/datasets/swaroopkml/cifar10-pngs-in-folders)
+
 Original Author: [Akash Kamalesh](https://github.com/asphytheghoul) <br/>
 feel free to reach out to me on instagram: [@akash.x23](https://www.instagram.com/akash.x23/)
