@@ -1,6 +1,7 @@
 # cifar10-classifier
 This is a CNN which classifies images as simple classes based on the cifar10 dataset. To run the program, download and install the requirements from the `requirements.txt` file 
-and run the `client.py` file.
+and run the `client.py` file. <br/>
+
 Sample output:
 
 Loss function graph:
