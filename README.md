@@ -1,4 +1,6 @@
 # cifar10-classifier
+
+<img src="https://socialify.git.ci/asphytheghoul/cifar10-classifier/image?font=Rokkitt&language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="cifar10-classifier" width="640" height="320" />
 This is a CNN which classifies images as simple classes based on the cifar10 dataset. To run the program, download and install the requirements from the `requirements.txt` file 
 and run the `client.py` file. <br/>
 
